@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'RPResizableView_Example', :exclusive => true do
+  pod 'RPResizableView', :path => '../'
+end
+
+target 'RPResizableView_Tests', :exclusive => true do
+  pod 'RPResizableView', :path => '../'
+
+  
+end
