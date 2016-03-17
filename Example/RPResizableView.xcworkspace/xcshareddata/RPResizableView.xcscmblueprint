@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "60F958C74AB48EEE03D21C08263EFCFDCEAE815F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "60F958C74AB48EEE03D21C08263EFCFDCEAE815F" : 0,
+    "1E3B45B2BE283816AD1854650C0B7787952E8CC3" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D051A194-0E37-43C5-BD2C-0895AF782692",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "60F958C74AB48EEE03D21C08263EFCFDCEAE815F" : "RPResizableView\/",
+    "1E3B45B2BE283816AD1854650C0B7787952E8CC3" : "..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RPResizableView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/RPResizableView.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "bitbucket.org:reinerp\/demenzapp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1E3B45B2BE283816AD1854650C0B7787952E8CC3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rpitting\/RPResizableView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "60F958C74AB48EEE03D21C08263EFCFDCEAE815F"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+PODS:
+  - RPResizableView (0.1.0)
+
+DEPENDENCIES:
+  - RPResizableView (from `../`)
+
+EXTERNAL SOURCES:
+  RPResizableView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RPResizableView: e1ead7724a6cad18ccc99da2799d088a25214823
+
+COCOAPODS: 0.39.0
